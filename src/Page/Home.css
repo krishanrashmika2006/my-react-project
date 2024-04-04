@@ -1,0 +1,141 @@
+.headone {
+  width: 500x;
+  height: 500px;
+  /* border:  1px solid red; */
+  background-image: url(/src/assest/bedroom-416062_1920.jpg);
+}
+.one {
+  display: flex;
+  justify-content: center;
+  width: 500x;
+  height: 100px;
+  /* border:  1px solid red; */
+  background-color: #ee7214;
+}
+.one h1 {
+  font-size: 50px;
+  color: aliceblue;
+  padding-top: 20px;
+}
+.two {
+  display: flex;
+  justify-content: center;
+  width: 500x;
+  height: 300px;
+  /* border:  1px solid red; */
+  background-color: #ee7214;
+}
+.two p {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.headthree {
+  width: 100%;
+  height: 600px;
+  /* border: 5px solid red; */
+  display: flex;
+}
+.bone {
+  display: flex;
+  flex: 1;
+  /* border: 5px solid rgb(208, 255, 0); */
+}
+.btwo {
+  flex: 1;
+  /* border: 5px solid rgb(0, 30, 255); */
+}
+.bthree {
+  /* padding-top: 150px; */
+  justify-content: center;
+  flex: 1;
+  border: 5px solid rgb(71, 240, 14);
+  margin-right: 90px;
+}
+.bbone {
+  margin-left: 90px;
+  position: absolute;
+  bottom: 400px;
+  height: 190px;
+  width: 450px;
+  /* border: 5px solid rgb(254, 20, 3); */
+}
+.AdamSmith {
+  display: flex;
+  position: absolute;
+  bottom: 770px;
+  width: 350px;
+  height: 450px;
+  /* border: 5px solid rgb(0, 200, 255); */
+  /* background-color: black; */
+  justify-content: center;
+  margin-left: 90px;
+}
+.AdamSmithphoto {
+  width: 300px;
+  height: 300px;
+  /* border: 5px solid rgb(144, 0, 255); */
+  border-radius: 50%;
+  background-image: url(/src/assest/Adam\ Smith.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.aboutAdamSmith {
+  display: flex;
+  justify-content: center;
+  /* border: 5px solid rgb(144, 0, 255); */
+  position: absolute;
+  bottom: 85px;
+  width: 250px;
+  height: 50px;
+}
+.MaryBrown {
+  display: flex;
+
+  width: 350px;
+  height: 450px;
+  /* border: 5px solid rgb(0, 200, 255); */
+  /* background-color: black; */
+  justify-content: center;
+  margin-left: 90px;
+}
+.MaryBrownphoto {
+  width: 300px;
+  height: 300px;
+  /* border: 5px solid rgb(144, 0, 255); */
+  border-radius: 50%;
+  background-image: url(/src/assest/girl.jpg);
+  background-size: cover;
+}
+.MaryBrownabout {
+  display: flex;
+  justify-content: center;
+  /* border: 5px solid rgb(144, 0, 255); */
+  position: absolute;
+  bottom: 685px;
+  width: 250px;
+  height: 50px;
+}
+.AnnRichmond{
+  margin-top: 310px;
+border: 1px solid red;
+height: 450px;
+display: flex;
+
+width: 350px;
+height: 450px;
+/* border: 5px solid rgb(0, 200, 255); */
+/* background-color: black; */
+justify-content: center;
+margin-left: 90px;
+
+}
+.AnnRichmondphoto{
+  width: 300px;
+  height: 300px;
+  /* border: 5px solid rgb(144, 0, 255); */
+  border-radius: 50%;
+  background-image: url(/src/assest/Ann\ Richmond.jpg);
+  background-size: cover;
+}
